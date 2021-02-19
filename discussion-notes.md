@@ -4,7 +4,6 @@
 
 **Note 3:** There is no chronological correlation between topics in these notes and when they came about in discussion.
 
-# Notes
 ## On general principles and ethics
 * This is not a democracy.
   * We might want it to be, we might strive for it to be, but the work is early and incremental and there is potential for abuse of admin power.
