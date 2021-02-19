@@ -8,4 +8,4 @@ Please submit proposed edits as Pull Requests, or use the in-slack `/admin` comm
 After this file is reviewed, (hopefully) approved, and (hopefully) published to the production web site, we can mothball this site and move future recommended updates to PRs against the production website.
 
 ## Update
-Added [discussion-notes.md](discussion.notes.md) to capture summaries of suggestions and discussions on the slack's `#meta` channel (and other sources, if given permission to share here).
+Added [discussion-notes.md](discussion-notes.md) to capture summaries of suggestions and discussions on the slack's `#meta` channel (and other sources, if given permission to share here).
