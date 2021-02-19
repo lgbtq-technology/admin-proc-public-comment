@@ -6,3 +6,6 @@ Actual document can be found in [admin.md](admin.md) document.
 Please submit proposed edits as Pull Requests, or use the in-slack `/admin` command to send suggested updates to the admin team. You might also discuss the file in `#meta`.
 
 After this file is reviewed, (hopefully) approved, and (hopefully) published to the production web site, we can mothball this site and move future recommended updates to PRs against the production website.
+
+## Update
+Added [discussion-notes.md](discussion.notes.md) to capture summaries of suggestions and discussions on the slack's `#meta` channel (and other sources, if given permission to share here).
